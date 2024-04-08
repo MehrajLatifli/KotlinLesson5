@@ -2,8 +2,8 @@ import java.util.*
 
 fun main(args:Array<String> ) {
 
-    println("\nFactorial: ${Factorial(InputNumber())} ")
-    println("\nFactorial: ${Factorial2(InputNumber())} ")
+    println("Factorial: ${Factorial(InputNumber())} \n")
+    println("Factorial: ${Factorial2(InputNumber())} \n")
 }
 
 fun InputNumber():Int{
